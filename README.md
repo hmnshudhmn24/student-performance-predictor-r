@@ -1,6 +1,6 @@
 # 🎓 Student Performance Predictor
 
-Predict students’ final academic performance based on key features like study time, failures, school support, and more using machine learning techniques in R.
+Predict final grades of students using machine learning based on study habits, attendance, and social factors. Built with R using caret, the model evaluates performance via confusion matrix and ROC curves. Great for showcasing classification skills, feature engineering, and model evaluation.
 
 ## 📌 Overview
 This project uses the Student Performance Dataset from UCI to predict student final grades (G3) as Pass or Fail. It involves:
